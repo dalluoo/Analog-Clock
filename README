@@ -1,0 +1,4 @@
+This is an analog clock in C using the OpenGL and Glut library.
+It has 2 modes:
+1. Near/Far Mode: Emulates the distance of the clock from the viewer.
+2. Light/Dark Mode: For the ease of use of the user. 
